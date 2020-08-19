@@ -3,6 +3,91 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/publication-type/3/</loc>
+    <lastmod>2020-08-18T21:19:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-08-18T21:19:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/heterogeneous-information-network/</loc>
+    <lastmod>2020-08-18T21:19:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/image-features/</loc>
+    <lastmod>2020-08-18T21:19:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jenny-harding/</loc>
+    <lastmod>2020-08-18T21:19:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/manoj-kumar-tiwari/</loc>
+    <lastmod>2020-08-18T21:19:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/parth-tiwari/</loc>
+    <lastmod>2020-08-18T21:19:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-08-18T21:19:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-08-18T21:19:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-08-18T21:19:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/recommender-systems/</loc>
+    <lastmod>2020-08-18T21:19:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/representation-learning/</loc>
+    <lastmod>2020-08-18T21:19:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/shivansh-mundra/</loc>
+    <lastmod>2020-08-18T21:19:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/skip-gram/</loc>
+    <lastmod>2020-08-18T21:19:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-08-18T21:19:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/vasg/</loc>
+    <lastmod>2020-08-18T21:19:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/yash-jain/</loc>
+    <lastmod>2020-08-18T21:19:38+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication-type/4/</loc>
     <lastmod>2020-07-01T21:19:38+05:30</lastmod>
   </url>
@@ -23,37 +108,12 @@
   </url>
   
   <url>
-    <loc>/authors/</loc>
-    <lastmod>2020-07-01T21:19:38+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/joao-monteiro/</loc>
     <lastmod>2020-07-01T21:19:38+05:30</lastmod>
   </url>
   
   <url>
     <loc>/publication/dcase_challenge/</loc>
-    <lastmod>2020-07-01T21:19:38+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/parth-tiwari/</loc>
-    <lastmod>2020-07-01T21:19:38+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2020-07-01T21:19:38+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-07-01T21:19:38+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
     <lastmod>2020-07-01T21:19:38+05:30</lastmod>
   </url>
   
@@ -68,17 +128,7 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-07-01T21:19:38+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/tiago-h.-falk/</loc>
-    <lastmod>2020-07-01T21:19:38+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/yash-jain/</loc>
     <lastmod>2020-07-01T21:19:38+05:30</lastmod>
   </url>
   

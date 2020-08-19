@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shivansh Mundra | Parth Tiwari</title>
+    <link>/author/shivansh-mundra/</link>
+      <atom:link href="/author/shivansh-mundra/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shivansh Mundra</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 Aug 2020 21:19:38 +0530</lastBuildDate>
+    <image>
+      <url>/images/icon_hud9aacf9477eedb163895b98c1538467c_1879_512x512_fill_lanczos_center_2.png</url>
+      <title>Shivansh Mundra</title>
+      <link>/author/shivansh-mundra/</link>
+    </image>
+    
+    <item>
+      <title>Visually Aware Skip-Gram for Image Based Recommendations</title>
+      <link>/publication/vasg/</link>
+      <pubDate>Tue, 18 Aug 2020 21:19:38 +0530</pubDate>
+      <guid>/publication/vasg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

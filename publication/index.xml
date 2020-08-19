@@ -5,12 +5,20 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications and Workshop Challenges</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 21:19:38 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 Aug 2020 21:19:38 +0530</lastBuildDate>
     <image>
       <url>/img/publication_header.jpg</url>
       <title>Publications and Workshop Challenges</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Visually Aware Skip-Gram for Image Based Recommendations</title>
+      <link>/publication/vasg/</link>
+      <pubDate>Tue, 18 Aug 2020 21:19:38 +0530</pubDate>
+      <guid>/publication/vasg/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Modulation Spectrums and i-Vectors for Anomalous Sound Detection</title>
